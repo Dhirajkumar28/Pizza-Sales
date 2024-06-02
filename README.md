@@ -4,7 +4,7 @@ This report on the pizza sales dataset uses SQL for data analysis and Power BI f
 I used MySQL to import and clean the pizza sales data, focusing on key variables like order ID, pizza name, quantity, order date, and total price.
 
 #Key Performance Indicators (KPIs):
-Calculated KPIs include Total Revenue Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order
+Calculated KPIs include Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order
 .
 #Trend Analysis:
 Analyzed sales trends over time to identify peak sales periods and seasonal patterns.
